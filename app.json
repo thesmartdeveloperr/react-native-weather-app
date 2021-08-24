@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "WeatherApp",
+    "name": "Weather Finder",
     "slug": "WeatherApp",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,6 +20,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package":"thesmartdeveloper.weatherapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
